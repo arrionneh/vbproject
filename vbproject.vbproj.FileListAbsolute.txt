@@ -1,0 +1,12 @@
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.vbprojAssemblyReference.cache
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.Form1.resources
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.Resources.resources
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.vbproj.GenerateResource.cache
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.vbproj.CoreCompileInputs.cache
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\bin\Debug\vbproject.exe.config
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\bin\Debug\vbproject.exe
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\bin\Debug\vbproject.pdb
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\bin\Debug\vbproject.xml
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.exe
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.xml
+C:\Users\hickson_arrionne\source\repos\vbproject\vbproject\obj\Debug\vbproject.pdb
